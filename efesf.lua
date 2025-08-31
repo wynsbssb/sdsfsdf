@@ -10286,27 +10286,6 @@ return (function(a, T, t, b, c, O, P, w, Y, g, x, m, F, G, p, d, U, q, I, B, v, 
 								end;
 							end;
 						end;
-					else
-						if d < 6325749 then
-							if d < 5169484 then
-								if d < 4602300 then
-									if d < 4327581 then
-										if d < 4232865 then
-											if d < 4180693 then
-												if d < 4150515 then
-													if d < 4138414 then
-														if d < 4108877 then
-															P = K(-25822);
-															x = K(-27067);
-															d = a[P];
-															P = d(x);
-															d = a[K(-26190)];
-															P = {};
-														else
-															o = V;
-															d = Q;
-															d = V and 1246956 or 8297317;
-														end;
 													else
 														if d < 4145952 then
 															u = K(-28007);
