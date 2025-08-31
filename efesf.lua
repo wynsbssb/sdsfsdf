@@ -10299,6 +10299,7 @@ return (function(a, T, t, b, c, O, P, w, Y, g, x, m, F, G, p, d, U, q, I, B, v, 
 															P = K(-25822);
 															x = K(-27067);
 															d = a[P];
+															P = d(x);
 															d = a[K(-26190)];
 															P = {};
 														else
