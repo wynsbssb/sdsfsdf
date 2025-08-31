@@ -68,4 +68,4 @@ end)
 
 --// 在这下面粘贴 MoonSec V3 加密的脚本
 -- MoonSecV3ScriptHere()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaopi77/xiaopi77/main/QQ1002100032-Roblox-Pi-script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eksan966/XI-Pro../refs/heads/main/xi-pro"))()
