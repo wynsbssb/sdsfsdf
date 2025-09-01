@@ -1,3 +1,4 @@
+a = {string.char(30) .. string.char(192),"Y" .. string.char(19) .. string.char(22) .. "Z" .. string.char(192),"E" .. string.char(17) .. string.char(204) .. string.char(0) .. string.char(0),"","","Z","Dp",string.char(0),"",string.char(236) .. string.char(192),string.char(146),"","",string.char(0),string.char(8),"",string.char(0),"F" .. string.char(196),string.char(153),"",string.char(0),"2",string.char(30),string.char(9),"","Z","","D/" .. string.char(166) .. "D","","," .. string.char(195),string.char(29) .. string.char(30) .. string.char(251),"D","H~" .. string.char(203) .. string.char(248) .. string.char(0),string.char(145) .. string.char(21) .. string.char(150) .. ",+" .. string.char(7) .. string.char(0),string.char(248) .. " ",string.char(144),string.char(152) .. string.char(0),"",string.char(8),"X" .. string.char(197) .. string.char(187),"","",string.char(237) .. string.char(20) .. "V",",","",string.char(238),string.char(238) .. "d{J" .. string.char(192),string.char(9) .. "\"","",string.char(10),"","F",string.char(0) .. string.char(0),"","","[" .. string.char(228) .. "l" .. string.char(0) .. string.char(0),"","H" .. string.char(201) .. string.char(22) .. string.char(0) .. string.char(0),"",string.char(176),"X","",string.char(0) .. string.char(0),string.char(236) .. "p",string.char(176) .. string.char(0),"",string.char(152),"2O" .. string.char(166),"G" .. string.char(180) .. "K","Z`","G" .. string.char(228) .. "V" .. string.char(152) .. string.char(0),string.char(146),"ZD" .. string.char(135) .. "D" .. string.char(192),string.char(155) .. string.char(224),"","0" .. string.char(196) .. "f",string.char(8),"","X",string.char(176),"","2","",string.char(248) .. string.char(0),"Z",string.char(144),"X","G" .. string.char(227),string.char(248),string.char(145),"J","X%" .. string.char(166),"",string.char(0),"",string.char(178) .. "K","Y" .. string.char(16),"","","Y" .. string.char(27),"," .. string.char(0),"JC" .. string.char(12) .. string.char(0),"H","",string.char(236) .. string.char(0),"",string.char(152) .. string.char(0),string.char(9) .. "$~","","Ec" .. string.char(12),"H",string.char(179) .. string.char(224),string.char(28) .. string.char(0),"",string.char(0),string.char(179) .. string.char(178) .. string.char(210) .. string.char(0),"","","2A" .. string.char(210),"2D" .. string.char(166) .. string.char(248),"X" .. string.char(0),", ",string.char(28) .. string.char(0),"Y$Q","",string.char(250) .. "@",string.char(153),"D",string.char(144) .. string.char(0),"E" .. string.char(25) .. string.char(150),string.char(0),string.char(248),string.char(152),"","",string.char(152),"","","","","D" .. string.char(176),string.char(0),string.char(0),"","1",string.char(178) .. "e" .. string.char(140),string.char(0) .. string.char(0),string.char(178),string.char(8),"0" .. string.char(0),"","X" .. string.char(0),"","X" .. string.char(197) .. string.char(150) .. string.char(0),"F",".","","","","","",string.char(249) .. string.char(16),string.char(0),"",string.char(0),"","",string.char(144) .. "t" .. string.char(139) .. string.char(0),"[" .. string.char(176),string.char(146) .. "D" .. string.char(166) .. string.char(250),"," .. string.char(0),"",string.char(154),string.char(0) .. string.char(0),"","","","","I","D" .. string.char(0),"2i","",string.char(0) .. string.char(0),string.char(236),"","","E","",string.char(248) .. string.char(0),"E" .. string.char(25) .. string.char(145),string.char(31),"","H","-","E#","","",string.char(146) .. string.char(207),"Y",string.char(0),string.char(145) .. string.char(19) .. string.char(17) .. string.char(0),"I","","K" .. string.char(229) .. string.char(187) .. string.char(0),string.char(8) .. "q" .. string.char(254) .. "0" .. string.char(0),string.char(155) .. string.char(191) .. string.char(146),string.char(176),"Yk",string.char(0),"",string.char(152) .. string.char(0),"Fe" .. string.char(150),string.char(0) .. string.char(0),"","","",string.char(176) .. string.char(0),string.char(144),"H." .. string.char(209) .. "I","Ie" .. string.char(145) .. "X","","",string.char(250) .. "O","","","D",string.char(177) .. "!","",string.char(154),"","H",string.char(0) .. string.char(0),string.char(30),"",string.char(10) .. "`",string.char(152) .. string.char(176),"",string.char(28) .. string.char(180) .. "G",string.char(248),"H",string.char(236),"1",string.char(0) .. string.char(0),"","","1e" .. string.char(139),"E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0),"D" .. string.char(179),"0s$" .. string.char(0) .. string.char(0),"","D",",{","","-",string.char(248),"G",string.char(155),"X" .. string.char(0),"X","",string.char(146) .. "K&" .. string.char(0),string.char(248),"","",string.char(0),"," .. string.char(0),string.char(28),"," .. string.char(0),string.char(154) .. "e",string.char(178) .. "C" .. string.char(17),string.char(154),"",string.char(152) .. "$" .. string.char(150) .. "Dt" .. string.char(145),string.char(144),"","Ye" .. string.char(166),"HtV" .. string.char(28) .. string.char(190) .. string.char(214) .. string.char(9) .. string.char(17) .. string.char(210),"","","","","","H",string.char(248) .. string.char(0),string.char(0) .. string.char(0),"","X" .. string.char(0),string.char(0),"",string.char(238) .. string.char(192),string.char(248),"2" .. string.char(197) .. string.char(140) .. string.char(0) .. string.char(0),string.char(29) .. "%" .. string.char(130) .. string.char(8),string.char(153) .. "i$" .. string.char(0),",","","","",string.char(147),string.char(0),string.char(0) .. string.char(0),string.char(28) .. string.char(0),string.char(28),"","G" .. string.char(224),string.char(248),"X" .. string.char(192),string.char(8) .. "p",string.char(250) .. "`",string.char(0),string.char(8) .. string.char(0),string.char(8),string.char(29),"",string.char(248) .. string.char(197) .. string.char(145),"Z" .. string.char(207) .. string.char(190),"Ea" .. string.char(210) .. "Ec",string.char(250),"",string.char(30) .. "B" .. string.char(214) .. "0" .. string.char(0),"X" .. string.char(0),"0 ","E","X+","","","G" .. string.char(224),string.char(144) .. "$" .. string.char(130) .. string.char(0) .. string.char(0),"E" .. string.char(31) .. string.char(172) .. string.char(0),"",string.char(238) .. string.char(196) .. string.char(150),"0" .. string.char(0),string.char(152) .. string.char(176) .. string.char(145) .. "3" .. string.char(224) .. string.char(187) .. string.char(0),string.char(250),"",string.char(239),"0",string.char(176) .. string.char(196),string.char(0),"2" .. string.char(193) .. string.char(203) .. string.char(0),"X" .. string.char(0),"","",string.char(152) .. string.char(0),string.char(29) .. "`" .. string.char(166) .. string.char(8) .. string.char(0),"Y",string.char(144),string.char(178) .. "@","X " .. string.char(139) .. string.char(155) .. string.char(179),"","",string.char(0),"","","D" .. string.char(201) .. string.char(22) .. "0" .. string.char(0),"",string.char(176) .. string.char(0),"","Fdd",string.char(0) .. string.char(0),string.char(0),"","2B" .. string.char(210) .. string.char(0) .. string.char(0),string.char(176),"E$L","",string.char(28) .. string.char(0),string.char(178) .. "@",string.char(152),string.char(238) .. string.char(192),"I" .. string.char(25) .. string.char(187),".","E#" .. string.char(2) .. "1`","D","",string.char(145) .. "o" .. string.char(145) .. string.char(146) .. string.char(195) .. "&",string.char(153) .. "e" .. string.char(166),"1",string.char(8) .. string.char(0),string.char(11) .. string.char(225) .. string.char(254),"","","",string.char(31) .. string.char(176) .. string.char(139),string.char(0) .. string.char(0),string.char(0),string.char(152),string.char(28),"I" .. string.char(18) .. string.char(194),string.char(9) .. "dR","",string.char(0) .. string.char(0),string.char(144) .. "p",string.char(152) .. string.char(181) .. string.char(187) .. string.char(8) .. string.char(192),"Y" .. string.char(20),"[" .. string.char(224) .. string.char(135),"","",string.char(238) .. "`","","","",string.char(176) .. " " .. string.char(187),string.char(236) .. string.char(206) .. string.char(236) .. string.char(0) .. string.char(0),string.char(0) .. string.char(0),"H" .. string.char(0),string.char(28) .. string.char(0),"E" .. string.char(17) .. string.char(228) .. string.char(0) .. string.char(0),string.char(176),"","",string.char(238) .. "B" .. string.char(251) .. "0p" .. string.char(140) .. string.char(154) .. "DQ" .. string.char(251) .. string.char(180) .. string.char(150) .. string.char(251) .. string.char(185) .. string.char(172) .. string.char(0) .. string.char(0),string.char(152) .. string.char(185) .. ";","0","-" .. string.char(16),"","","D","",string.char(176) .. "p","","-e","",string.char(0),"H","X" .. string.char(0),string.char(145),"2" .. string.char(194) .. string.char(236) .. string.char(236),"",string.char(248) .. "s",",",string.char(236),string.char(178) .. string.char(201) .. string.char(146) .. string.char(0),"","","D",string.char(0),"H",string.char(30) .. "`","",string.char(238) .. "K>0","1d" .. string.char(146) .. string.char(144) .. string.char(0),"," .. string.char(192),"","",string.char(0),string.char(147) .. string.char(180) .. string.char(145),string.char(0),"","Za" .. string.char(214),string.char(236) .. string.char(196) .. string.char(150) .. string.char(0),"0" .. string.char(0),"0","",string.char(0) .. string.char(0),string.char(144) .. " ","1" .. string.char(20) .. string.char(150),string.char(238),string.char(145) .. "`","",string.char(249),"",string.char(0),"",string.char(238) .. "D" .. string.char(187) .. string.char(29) .. string.char(27),string.char(176),"","Fdl","K" .. string.char(224),"D" .. string.char(0),"","0","","1",string.char(0) .. string.char(0),string.char(0) .. string.char(0),string.char(236),"," .. string.char(0),"EdGX","","X" .. string.char(0),"E" .. string.char(25) .. string.char(145) .. string.char(152),string.char(153),"",string.char(11) .. string.char(224),"F@",string.char(0) .. string.char(0),string.char(177) .. "i" .. string.char(166) .. "G" .. string.char(187) .. string.char(22) .. string.char(144) .. string.char(0),string.char(0),"E","","",string.char(152) .. string.char(192),"",string.char(250) .. "@",string.char(152) .. string.char(195) .. string.char(22) .. string.char(0) .. string.char(0),"H",string.char(9) .. string.char(17) .. string.char(199),string.char(0),"","-",string.char(0),"0",string.char(0),string.char(0),string.char(237) .. string.char(20) .. string.char(135),"F","","[" .. string.char(180) .. string.char(130) .. "0" .. string.char(0),",","","","","X" .. string.char(0),"2D" .. string.char(145) .. "X",string.char(0),"","","D" .. string.char(0),"","X ",",","","","1`",string.char(0),",","","X","E","",string.char(0) .. string.char(0),"",string.char(176),"","","0" .. string.char(0),string.char(0),"H",string.char(146) .. "i;H","2" .. string.char(194) .. string.char(199),"",string.char(0),string.char(152) .. string.char(176),string.char(248) .. string.char(0),string.char(144) .. "{",string.char(29) .. "`","Y",string.char(178) .. string.char(192),"0",string.char(154) .. "I","","X" .. string.char(0),"","F`","","","","1 ","",string.char(29) .. "o" .. string.char(166),"1`","",string.char(9) .. "i",string.char(0) .. string.char(0),"3" .. string.char(176),string.char(28) .. string.char(197) .. string.char(146) .. "0" .. string.char(0),"","","E ",string.char(31) .. string.char(233) .. string.char(17) .. "G",",r" .. string.char(194) .. string.char(30) .. string.char(206) .. string.char(214),"",string.char(155) .. string.char(224),"",string.char(0),string.char(248) .. ")" .. string.char(140),"","1","","-c&" .. string.char(0),"2" .. string.char(192),string.char(236) .. string.char(177) .. string.char(214),"G" .. string.char(224),string.char(251),"D",",","H",string.char(9) .. string.char(27) .. "&","D" .. string.char(0),string.char(29) .. "!" .. string.char(203),"","Y!","0td" .. string.char(178) .. "`",string.char(176) .. string.char(0),"D",string.char(239),"X" .. string.char(0),"",string.char(0) .. string.char(0),string.char(9) .. " " .. string.char(164),"0" .. string.char(0),"D","","D",string.char(237),"","","",string.char(153) .. "`" .. string.char(190) .. string.char(236),"","","E" .. string.char(25) .. string.char(22) .. string.char(250) .. "e" .. string.char(190) .. string.char(155) .. string.char(229) .. string.char(140) .. string.char(178) .. string.char(196) .. string.char(140) .. "X" .. string.char(185) .. string.char(150),string.char(154) .. "D","F",string.char(176) .. string.char(176),"","D" .. string.char(176),string.char(144),"",string.char(0),"","","",string.char(8) .. ")" .. string.char(135) .. string.char(0),string.char(153) .. "d","","","",string.char(144) .. string.char(0),"","",string.char(0),"Fe" .. string.char(164),string.char(144) .. string.char(179) .. "$","D" .. string.char(0),",","Dq" .. string.char(228),string.char(28),string.char(145) .. " ",string.char(0),string.char(0),"JA",string.char(0) .. string.char(0),string.char(176) .. string.char(0),string.char(0),"","","Ye" .. string.char(145) .. string.char(0) .. string.char(0),string.char(0) .. string.char(0),"K","","",string.char(152),string.char(0) .. string.char(0),"","E" .. string.char(21),"",string.char(248),"E`",string.char(8) .. string.char(0),"",string.char(0) .. string.char(0),"","","","",string.char(9) .. string.char(31),"","E" .. string.char(27) .. string.char(22) .. string.char(0) .. string.char(0),string.char(0) .. string.char(0),string.char(251) .. string.char(235) .. "$" .. string.char(0) .. string.char(0),"","",string.char(0),"F","","","1n" .. string.char(204),string.char(146) .. "d" .. string.char(164),string.char(177) .. "d" .. string.char(145) .. string.char(0),string.char(152),"I" .. string.char(21),string.char(176),"-`",string.char(178) .. string.char(196),"","H",string.char(250) .. "k" .. string.char(7) .. string.char(152),"E" .. string.char(18) .. string.char(194),"",string.char(29) .. " ","1!" .. string.char(236),"","","Z",string.char(176) .. string.char(187) .. "&","X","","",string.char(153) .. string.char(30),"D","",string.char(9),"[",string.char(0) .. string.char(0),"I","Edd","",string.char(0) .. string.char(0),"",string.char(152),"","I",string.char(28),"",string.char(0),string.char(144) .. string.char(0),"","",string.char(154) .. "@" .. string.char(145),string.char(29),string.char(0) .. string.char(0),string.char(153) .. "e" .. string.char(164) .. string.char(176) .. string.char(0),string.char(144) .. "$R" .. string.char(176),string.char(0),",","",string.char(236) .. string.char(176),string.char(152),"-`","X",string.char(0),"","",string.char(152),string.char(249),string.char(10),string.char(8) .. string.char(201),"",string.char(144),"",string.char(0) .. string.char(0),"","",string.char(144),"","1" .. string.char(16) .. string.char(145) .. string.char(0),"","Z" .. string.char(192),"X",string.char(146) .. string.char(197),string.char(176),string.char(239) .. string.char(191) .. string.char(164) .. string.char(0) .. string.char(0),"","","","D" .. string.char(192),string.char(152) .. " ","",string.char(152) .. string.char(0),"Jd" .. string.char(187),"H","D" .. string.char(206) .. string.char(199) .. "/",string.char(29),string.char(152) .. string.char(0),"","",string.char(0),string.char(147) .. string.char(224) .. string.char(139),"1","," .. string.char(0),"",string.char(0),"",string.char(152) .. string.char(0),string.char(28) .. string.char(0),string.char(251),"","D" .. string.char(0),string.char(152) .. "y" .. string.char(140) .. string.char(0) .. string.char(0),"X","",string.char(176) .. string.char(0),"",string.char(236) .. string.char(0),"","","2",string.char(0) .. string.char(0),"","0" .. string.char(192),"","",string.char(154) .. "N" .. string.char(236),string.char(177) .. string.char(31) .. string.char(146),"H" .. string.char(179) .. string.char(18) .. string.char(0),string.char(176),"Ia" .. string.char(214),string.char(248) .. string.char(0),string.char(28) .. "r" .. string.char(194),"D" .. string.char(176),"","Y+" .. string.char(11),"",string.char(178),"X" .. string.char(0),"",string.char(250) .. "k" .. string.char(18),"K",string.char(146),string.char(178) .. "A" .. string.char(194) .. string.char(177),",","","","FI","F@","G" .. string.char(177) .. string.char(203) .. string.char(0) .. string.char(0),string.char(0) .. string.char(0),"",string.char(144),string.char(153),string.char(154) .. string.char(206) .. string.char(254) .. string.char(176) .. string.char(0),string.char(28),"","D" .. string.char(207) .. string.char(135) .. string.char(0) .. string.char(0),"",string.char(176) .. string.char(0),string.char(8),"","",string.char(147),"","." .. string.char(196) .. string.char(130),"","",string.char(30) .. "`",string.char(0) .. string.char(0),"2" .. string.char(196) .. "G" .. string.char(10) .. "`","Hp","",string.char(178) .. "i" .. string.char(18) .. string.char(0) .. string.char(0),string.char(28) .. string.char(196) .. string.char(190) .. string.char(0),"",string.char(177) .. "i" .. string.char(7) .. ",",string.char(0),"",string.char(177) .. "`","0" .. string.char(0),string.char(177) .. "`","",string.char(0),"","",string.char(153) .. string.char(16),string.char(8),string.char(176) .. string.char(0),"","","",string.char(8) .. string.char(0),"","",string.char(9) .. string.char(18) .. string.char(210),"","2@",string.char(152) .. string.char(0),string.char(152),string.char(0) .. string.char(0),string.char(152) .. string.char(176),string.char(176) .. string.char(0),"","E%" .. string.char(145),string.char(176),"","E" .. string.char(16),"I","1+","1",string.char(248) .. string.char(180),"0" .. string.char(0),"ZK","","","Xp",string.char(0) .. string.char(0),"","","",string.char(249) .. "i,.`","D",string.char(0) .. string.char(0),string.char(251) .. string.char(181) .. string.char(140) .. string.char(0) .. string.char(0),string.char(0),"Dr" .. string.char(199),string.char(145),string.char(144),"","G",string.char(238) .. string.char(201) .. string.char(135) .. "0" .. string.char(0),"","",string.char(30) .. string.char(192),"X" .. string.char(0),",",string.char(28),string.char(144) .. string.char(0),"Y" .. string.char(21) .. string.char(135) .. string.char(0),string.char(236),string.char(0),"0$","","I","",string.char(0),string.char(237) .. "`",string.char(0) .. string.char(0),"",string.char(152) .. string.char(187) .. string.char(7) .. string.char(0),string.char(10),"",string.char(251) .. string.char(224) .. string.char(135) .. string.char(0),"",".A" .. string.char(251),"G","-",string.char(0),"","","D" .. string.char(0),"X" .. string.char(0),string.char(250) .. string.char(192),"","","J`","","","","","",string.char(28) .. string.char(197) .. string.char(172),"","D","","",string.char(147) .. string.char(228) .. string.char(130),string.char(152),string.char(8) .. string.char(0),"","",string.char(152) .. string.char(0),"","D",string.char(236) .. string.char(190) .. string.char(209) .. string.char(0),"",string.char(0) .. string.char(0),"I`",string.char(8) .. "!" .. string.char(236) .. string.char(0) .. string.char(0),"ZI" .. string.char(12),"E" .. string.char(25),"YdQ",string.char(8),"",string.char(236) .. string.char(180) .. "L" .. string.char(0) .. string.char(0)};
 for U, H in ipairs({ { 1, 964 }, { 1, 604 }, { 605, 964 } }) do
     while H[1] < H[2] do
         a[H[1]], a[H[2]], H[1], H[2] = a[H[2]], a[H[1]], H[1] + 1, H[2] - 1;
@@ -324,7 +325,7 @@ if H < 418070 then
     if H < 301625 then
         H = u[V[5]];
         k = 30835044268054;
-        j = string.char(0,0);
+        j = string.char(0) .. string.char(0);
         o = string.char(0);
         G = u[V[1]];
         D = 30305218459423;
@@ -395,8 +396,8 @@ if H < 862729 then
                 H = r[h];
                 c = u[V[1]];
                 q = u[V[2]];
-                k = string.char(176,0);
-                o = string.char(144,0);
+                k = string.char(176) .. string.char(0);
+                o = string.char(144) .. string.char(0);
                 j = q(k, N);
                 D = 33225633152111;
                 G = c[j];
@@ -488,7 +489,7 @@ if H < 783849 then
         H = H and 10206053 or 8520223;
     else
     q = u[y];
-    D = string.char(176,0);
+    D = string.char(176) .. string.char(0);
     i = 33910025321902;
     k = u[V[1]];
     N = u[V[2]];
@@ -544,7 +545,7 @@ if H < 1168842 then
     end;
 else
 if H < 1150579 then
-    o = string.char(236,177,214);
+    o = string.char(236) .. string.char(177) .. string.char(214);
     c = u[y];
     j = u[V[1]];
     k = u[V[2]];
@@ -607,7 +608,7 @@ k = "";
 q = u[V[2]];
 j = q(k, N);
 G = c[j];
-j = "2D" .. string.char(166,248);
+j = "2D" .. string.char(166) .. string.char(248);
 r = h[G];
 G = u[V[1]];
 k = 21038389372484;
@@ -725,7 +726,7 @@ if H < 1740774 then
             k = 21733940422536;
             G = u[V[1]];
             c = u[V[2]];
-            j = string.char(28,0);
+            j = string.char(28) .. string.char(0);
             q = c(j, k);
             h = G[q];
             H = r ~= h;
@@ -741,7 +742,7 @@ if H < 1676368 then
     r = u[V[3]];
     N = 14700577643197;
     G = u[V[1]];
-    D = string.char(30,192);
+    D = string.char(30) .. string.char(192);
     c = u[V[2]];
     j = "";
     q = c(j, k);
@@ -759,7 +760,7 @@ if H < 1676368 then
     k = u[V[1]];
     N = u[V[2]];
     o = N(D, i);
-    D = string.char(0,0);
+    D = string.char(0) .. string.char(0);
     j = k[o];
     c = q[j];
     k = 0;
@@ -854,8 +855,8 @@ H = u[k];
 p = 1;
 s = 6;
 X = H(p, s);
-H = string.char(238,192);
-s = string.char(238,192);
+H = string.char(238) .. string.char(192);
+s = string.char(238) .. string.char(192);
 a[H] = X;
 p = a[s];
 s = 2;
@@ -886,7 +887,7 @@ if H < 2184869 then
     j = u[V[4]];
     k = u[V[5]];
     D = 5783921052293;
-    o = string.char(8,0);
+    o = string.char(8) .. string.char(0);
     N = k(o, D);
     H = j[N];
     j = false;
@@ -969,7 +970,7 @@ if H < 2318383 then
             H = a[""];
             y = nil;
         else
-        N = string.char(152,176);
+        N = string.char(152) .. string.char(176);
         G = u[V[4]];
         o = 30266695399182;
         q = u[V[2]];
@@ -1046,7 +1047,7 @@ if H < 2586534 then
         G = H;
         k = u[y];
         o = u[V[1]];
-        L = string.char(0,0);
+        L = string.char(0) .. string.char(0);
         I = 18177010491664;
         D = u[V[2]];
         i = D(L, I);
@@ -1092,7 +1093,7 @@ if H < 3817671 then
                     H = "";
                     H = y[H];
                     H = H(y);
-                    H = a[string.char(0,0)];
+                    H = a[string.char(0) .. string.char(0)];
                     r = {};
                 end;
             else
@@ -1108,7 +1109,7 @@ if H < 2715447 then
     if H < 2714539 then
         y = u[V[1]];
         k = 8021852720791;
-        j = string.char(153) .. "e" .. string.char(164,176,0);
+        j = string.char(153) .. "e" .. string.char(164) .. string.char(176) .. string.char(0);
         G = u[V[2]];
         c = u[V[3]];
         q = c(j, k);
@@ -1157,7 +1158,7 @@ if H < 2932080 then
             y = H;
             H = r / y;
             r = { H };
-            H = a[string.char(29) .. "%" .. string.char(130,8)];
+            H = a[string.char(29) .. "%" .. string.char(130) .. string.char(8)];
         else
         H = r and 4894447 or 1150215;
     end;
@@ -1165,7 +1166,7 @@ else
 if H < 2899657 then
     y = u[V[1]];
     G = u[V[2]];
-    j = string.char(176,0);
+    j = string.char(176) .. string.char(0);
     c = u[V[3]];
     k = 15897623305450;
     q = c(j, k);
@@ -1192,7 +1193,7 @@ end;
 else
 if H < 3013482 then
     if H < 2994750 then
-        P3 = string.char(152,0);
+        P3 = string.char(152) .. string.char(0);
         M3 = a[P3];
         K3 = "";
         J3 = u[h];
@@ -1288,7 +1289,7 @@ if H < 3071153 then
     N = k(o, D);
     q = j[N];
     H = r[q];
-    r = "X" .. string.char(197,187);
+    r = "X" .. string.char(197) .. string.char(187);
     r = H[r];
     r = r(H, h);
     H = 10575579;
@@ -1320,7 +1321,7 @@ if H < 3611578 then
             N = 11623831721252;
             G = u[V[1]];
             k = 31518197414228;
-            j = string.char(176,187) .. "&";
+            j = string.char(176) .. string.char(187) .. "&";
             c = u[V[2]];
             q = c(j, k);
             h = G[q];
@@ -1370,7 +1371,7 @@ if H < 3611578 then
         c = r;
     else
     N = 1013467677143;
-    k = string.char(145,19,17,0);
+    k = string.char(145) .. string.char(19) .. string.char(17) .. string.char(0);
     h = u[V[4]];
     c = u[V[1]];
     q = u[V[2]];
@@ -1418,7 +1419,7 @@ if H < 3520627 then
     h = G[q];
     r = H(h, y);
     y = nil;
-    H = a[string.char(0,0)];
+    H = a[string.char(0) .. string.char(0)];
     r = {};
 end;
 else
@@ -1428,7 +1429,7 @@ if H < 3583392 then
     k = u[V[2]];
     h = H;
     N = u[V[3]];
-    D = string.char(152,185) .. ";";
+    D = string.char(152) .. string.char(185) .. ";";
     o = N(D, i);
     j = k[o];
     D = string.char(146) .. "d" .. string.char(164);
@@ -1545,7 +1546,7 @@ if H < 4338714 then
                     j = u[V[2]];
                     I = 12389167388297;
                     k = u[V[3]];
-                    o = string.char(0,0);
+                    o = string.char(0) .. string.char(0);
                     D = 3681553565362;
                     N = k(o, D);
                     q = j[N];
@@ -1576,7 +1577,7 @@ if H < 4338714 then
                 q = c(j, k);
                 y = O[1];
                 k = 4048890021725;
-                j = string.char(176,0);
+                j = string.char(176) .. string.char(0);
                 h = G[q];
                 H = r[h];
                 G = u[V[2]];
@@ -1633,7 +1634,7 @@ if H < 3971460 then
         o = t();
         u[o] = r;
         H = u[k];
-        I = string.char(236,180) .. "L" .. string.char(0,0);
+        I = string.char(236) .. string.char(180) .. "L" .. string.char(0) .. string.char(0);
         r = H(D, i);
         D = t();
         u[D] = r;
@@ -1704,7 +1705,7 @@ if H < 4187498 then
             r = r(H, h);
             H = 18608;
         else
-        k = string.char(8) .. "!" .. string.char(236,0,0);
+        k = string.char(8) .. "!" .. string.char(236) .. string.char(0) .. string.char(0);
         h = u[V[4]];
         c = u[V[1]];
         N = 19770822468598;
@@ -1779,7 +1780,7 @@ else
 j = 32678478199665;
 h = u[V[1]];
 G = u[V[2]];
-q = string.char(8,0);
+q = string.char(8) .. string.char(0);
 c = G(q, j);
 r = h[c];
 r = { r };
@@ -1855,7 +1856,7 @@ if H < 4570809 then
     k = u[V[1]];
     N = u[V[2]];
     i = 13748692080898;
-    D = string.char(178,201,146,0);
+    D = string.char(178) .. string.char(201) .. string.char(146) .. string.char(0);
     o = N(D, i);
     j = k[o];
     c = q == j;
@@ -1871,7 +1872,7 @@ if H < 4471984 then
         c = u[V[2]];
         r = H[r];
         k = 30361332627258;
-        j = "E" .. string.char(25,22,250) .. "e" .. string.char(190,155,229,140,178,196,140) .. "X" .. string.char(185,150);
+        j = "E" .. string.char(25) .. string.char(22) .. string.char(250) .. "e" .. string.char(190) .. string.char(155) .. string.char(229) .. string.char(140) .. string.char(178) .. string.char(196) .. string.char(140) .. "X" .. string.char(185) .. string.char(150);
         q = c(j, k);
         h = G[q];
         r = r(H, h);
@@ -1921,7 +1922,7 @@ if H < 4671353 then
         if H < 4585133 then
             c = r;
             r = u[V[3]];
-            o = string.char(0,0);
+            o = string.char(0) .. string.char(0);
             I = 28994271163581;
             j = u[V[1]];
             k = u[V[2]];
@@ -1964,19 +1965,19 @@ if H < 4671353 then
         h = G[q];
         H = r[h];
         G = u[V[2]];
-        j = string.char(236,176);
+        j = string.char(236) .. string.char(176);
         c = u[V[3]];
         k = 10005400474163;
         q = c(j, k);
         h = G[q];
         r = H(h, y);
-        H = a["X " .. string.char(139,155,179)];
+        H = a["X " .. string.char(139) .. string.char(155) .. string.char(179)];
         r = {};
         y = nil;
     end;
 else
 if H < 4660329 then
-    H = string.char(0,0);
+    H = string.char(0) .. string.char(0);
     H = j[H];
     H = H(j);
     H = 4681053;
@@ -1985,7 +1986,7 @@ G = u[V[3]];
 q = u[V[4]];
 j = u[V[5]];
 o = 21031817258561;
-N = string.char(236,206,236,0,0);
+N = string.char(236) .. string.char(206) .. string.char(236) .. string.char(0) .. string.char(0);
 k = j(N, o);
 N = 33000315894790;
 c = q[k];
@@ -2121,7 +2122,7 @@ if H < 6328240 then
                         J3 = "";
                         s = nil;
                         M3 = P3[B3];
-                        o3 = string.char(0,0);
+                        o3 = string.char(0) .. string.char(0);
                         l3 = I[M3];
                         k3 = 30595094656934;
                         J3 = l3[J3];
@@ -2163,16 +2164,16 @@ if H < 6328240 then
                         J3 = B3[K3];
                         f3 = u[h];
                         j3 = 9653774160271;
-                        k3 = "D" .. string.char(206,199) .. "/";
+                        k3 = "D" .. string.char(206) .. string.char(199) .. "/";
                         K3 = u[c];
                         q3 = K3(k3, j3);
-                        j3 = "1" .. string.char(20,150);
-                        D3 = string.char(236,196,150,0);
+                        j3 = "1" .. string.char(20) .. string.char(150);
+                        D3 = string.char(236) .. string.char(196) .. string.char(150) .. string.char(0);
                         B3 = f3[q3];
                         K3 = u[h];
                         q3 = u[c];
                         k3 = q3(j3, N3);
-                        e3 = string.char(29) .. "`" .. string.char(166,8,0);
+                        e3 = string.char(29) .. "`" .. string.char(166) .. string.char(8) .. string.char(0);
                         f3 = K3[k3];
                         c3 = string.char(248);
                         k3 = u[h];
@@ -2211,7 +2212,7 @@ if H < 6328240 then
                         L3 = i3[I3];
                         o3 = u[h];
                         I3 = u[c];
-                        R3 = string.char(152,176);
+                        R3 = string.char(152) .. string.char(176);
                         g3 = I3(R3, p3);
                         i3 = o3[g3];
                         R3 = string.char(0);
@@ -2247,7 +2248,7 @@ if H < 6328240 then
                         B3 = u[c];
                         f3 = B3(K3, q3);
                         P3 = J3[f3];
-                        q3 = string.char(236,0);
+                        q3 = string.char(236) .. string.char(0);
                         o3 = 18124258484471;
                         B3 = u[h];
                         l3 = c3[l3];
@@ -2265,23 +2266,23 @@ if H < 6328240 then
                         K3 = u[h];
                         N3 = 27001071972637;
                         q3 = u[c];
-                        j3 = "E" .. string.char(20,172,0,0);
+                        j3 = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
                         k3 = q3(j3, N3);
                         q3 = 26508260536375;
                         f3 = K3[k3];
-                        K3 = string.char(9,27) .. "&";
+                        K3 = string.char(9) .. string.char(27) .. "&";
                         M3 = { [P3] = J3, [B3] = f3 };
                         l3 = l3(c3, M3);
                         J3 = u[h];
                         j3 = 7847204113990;
                         N3 = 14304894016005;
                         B3 = u[c];
-                        k3 = string.char(8,0);
+                        k3 = string.char(8) .. string.char(0);
                         f3 = B3(K3, q3);
                         P3 = J3[f3];
                         f3 = u[h];
                         K3 = u[c];
-                        p3 = string.char(237,20,135);
+                        p3 = string.char(237) .. string.char(20) .. string.char(135);
                         q3 = K3(k3, j3);
                         j3 = "";
                         B3 = f3[q3];
@@ -2289,11 +2290,11 @@ if H < 6328240 then
                         q3 = u[c];
                         k3 = q3(j3, N3);
                         f3 = K3[k3];
-                        N3 = string.char(152,195,22,0,0);
+                        N3 = string.char(152) .. string.char(195) .. string.char(22) .. string.char(0) .. string.char(0);
                         q3 = u[h];
                         k3 = u[c];
                         j3 = k3(N3, D3);
-                        i3 = string.char(152,0);
+                        i3 = string.char(152) .. string.char(0);
                         K3 = q3[j3];
                         k3 = u[R];
                         N3 = u[h];
@@ -2305,8 +2306,8 @@ if H < 6328240 then
                         R3 = 26217256644528;
                         o3 = "Ie" .. string.char(145) .. "X";
                         j3 = u[h];
-                        L3 = string.char(176,176);
-                        M3 = string.char(152,0);
+                        L3 = string.char(176) .. string.char(176);
+                        M3 = string.char(152) .. string.char(0);
                         N3 = u[c];
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
@@ -2379,7 +2380,7 @@ if H < 6328240 then
                         k3 = "X ";
                         M3 = M3(l3, P3, J3);
                         J3 = u[h];
-                        K3 = "JC" .. string.char(12,0);
+                        K3 = "JC" .. string.char(12) .. string.char(0);
                         B3 = u[c];
                         q3 = 15880959352035;
                         D3 = 7176208485645;
@@ -2411,11 +2412,11 @@ if H < 6328240 then
                         i3 = 21508703184671;
                         j3 = N3[L3];
                         q3 = k3[j3];
-                        M3 = string.char(152,0);
+                        M3 = string.char(152) .. string.char(0);
                         j3 = u[h];
-                        L3 = string.char(152,0);
+                        L3 = string.char(152) .. string.char(0);
                         M3 = l3[M3];
-                        o3 = "0s$" .. string.char(0,0);
+                        o3 = "0s$" .. string.char(0) .. string.char(0);
                         N3 = u[c];
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
@@ -2462,7 +2463,7 @@ if H < 6328240 then
                         B3 = f3[q3];
                         K3 = u[h];
                         q3 = u[c];
-                        j3 = string.char(31,176,139);
+                        j3 = string.char(31) .. string.char(176) .. string.char(139);
                         i3 = 13869893785914;
                         k3 = q3(j3, N3);
                         f3 = K3[k3];
@@ -2502,7 +2503,7 @@ if H < 6328240 then
                         M3 = l3[M3];
                         q3 = u[c];
                         k3 = q3(j3, N3);
-                        N3 = string.char(249,16);
+                        N3 = string.char(249) .. string.char(16);
                         f3 = K3[k3];
                         q3 = u[h];
                         k3 = u[c];
@@ -2518,7 +2519,7 @@ if H < 6328240 then
                         J3 = { [B3] = f3, [K3] = q3, [k3] = j3 };
                         M3 = M3(l3, P3, J3);
                         q3 = string.char(0);
-                        i3 = string.char(8,0);
+                        i3 = string.char(8) .. string.char(0);
                         B3 = u[h];
                         j3 = 2043254326199;
                         f3 = u[c];
@@ -2528,16 +2529,16 @@ if H < 6328240 then
                         J3 = B3[K3];
                         D3 = 34891043520375;
                         f3 = u[h];
-                        k3 = "2" .. string.char(197,140,0,0);
+                        k3 = "2" .. string.char(197) .. string.char(140) .. string.char(0) .. string.char(0);
                         K3 = u[c];
                         q3 = K3(k3, j3);
                         M3 = "";
                         B3 = f3[q3];
                         K3 = u[h];
                         q3 = u[c];
-                        j3 = string.char(153,16);
+                        j3 = string.char(153) .. string.char(16);
                         k3 = q3(j3, N3);
-                        N3 = "E" .. string.char(20,172,0,0);
+                        N3 = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
                         f3 = K3[k3];
                         L3 = 3035067876741;
                         q3 = u[h];
@@ -2567,7 +2568,7 @@ if H < 6328240 then
                         k3 = u[c];
                         j3 = k3(N3, D3);
                         K3 = q3[j3];
-                        D3 = "E" .. string.char(25,150);
+                        D3 = "E" .. string.char(25) .. string.char(150);
                         k3 = u[h];
                         P3 = M3[P3];
                         j3 = u[c];
@@ -2599,9 +2600,9 @@ if H < 6328240 then
                         k3 = u[h];
                         G3 = nil;
                         j3 = u[c];
-                        D3 = string.char(0,0);
+                        D3 = string.char(0) .. string.char(0);
                         N3 = j3(D3, L3);
-                        j3 = string.char(8,0);
+                        j3 = string.char(8) .. string.char(0);
                         q3 = k3[N3];
                         k3 = false;
                         D3 = 20600606909816;
@@ -2643,7 +2644,7 @@ if H < 6328240 then
                         P3 = P3(M3, J3, B3);
                         B3 = u[h];
                         k3 = 306806620302;
-                        q3 = "[" .. string.char(224,135);
+                        q3 = "[" .. string.char(224) .. string.char(135);
                         f3 = u[c];
                         K3 = f3(q3, k3);
                         j3 = "-";
@@ -2652,7 +2653,7 @@ if H < 6328240 then
                         N3 = 19453846152034;
                         q3 = u[c];
                         k3 = q3(j3, N3);
-                        N3 = string.char(237,20) .. "V";
+                        N3 = string.char(237) .. string.char(20) .. "V";
                         f3 = K3[k3];
                         P3 = "X" .. string.char(0);
                         q3 = u[h];
@@ -2704,7 +2705,7 @@ if H < 6328240 then
                         P3 = P3(M3, J3, B3);
                         B3 = u[h];
                         k3 = 20993226597935;
-                        q3 = string.char(178,196);
+                        q3 = string.char(178) .. string.char(196);
                         o3 = "";
                         f3 = u[c];
                         K3 = f3(q3, k3);
@@ -2730,7 +2731,7 @@ if H < 6328240 then
                         P3 = M3[P3];
                         k3 = false;
                         B3 = { [f3] = K3, [q3] = k3 };
-                        q3 = string.char(144,179) .. "$";
+                        q3 = string.char(144) .. string.char(179) .. "$";
                         D3 = 18971764220546;
                         k3 = 1928762655618;
                         P3 = P3(M3, J3, B3);
@@ -2762,10 +2763,10 @@ if H < 6328240 then
                         k3 = false;
                         B3 = { [f3] = K3, [q3] = k3 };
                         P3 = P3(M3, J3, B3);
-                        q3 = string.char(154,206,254,176,0);
+                        q3 = string.char(154) .. string.char(206) .. string.char(254) .. string.char(176) .. string.char(0);
                         B3 = u[h];
                         f3 = u[c];
-                        j3 = string.char(147,180,145);
+                        j3 = string.char(147) .. string.char(180) .. string.char(145);
                         k3 = 27415195447774;
                         L = F(L);
                         K3 = f3(q3, k3);
@@ -2781,7 +2782,7 @@ if H < 6328240 then
                         D3 = 19553389224849;
                         q3 = u[h];
                         k3 = u[c];
-                        N3 = string.char(0,0);
+                        N3 = string.char(0) .. string.char(0);
                         j3 = k3(N3, D3);
                         K3 = q3[j3];
                         D3 = "";
@@ -2809,7 +2810,7 @@ if H < 6328240 then
                         k3 = q3(j3, N3);
                         f3 = K3[k3];
                         q3 = u[h];
-                        N3 = string.char(145,21,150) .. ",+" .. string.char(7,0);
+                        N3 = string.char(145) .. string.char(21) .. string.char(150) .. ",+" .. string.char(7) .. string.char(0);
                         k3 = u[c];
                         j3 = k3(N3, D3);
                         K3 = q3[j3];
@@ -2842,15 +2843,15 @@ if H < 6328240 then
                         f3 = K3[k3];
                         q3 = u[h];
                         k3 = u[c];
-                        N3 = string.char(30,192);
+                        N3 = string.char(30) .. string.char(192);
                         j3 = k3(N3, D3);
                         K3 = q3[j3];
                         k3 = u[h];
-                        D3 = "E" .. string.char(20,172,0,0);
+                        D3 = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
                         j3 = u[c];
                         N3 = j3(D3, L3);
                         q3 = k3[N3];
-                        k3 = string.char(146,207);
+                        k3 = string.char(146) .. string.char(207);
                         j3 = 7831288696382;
                         J3 = { [B3] = f3, [K3] = q3 };
                         P3 = P3(c3, J3);
@@ -2900,7 +2901,7 @@ if H < 6328240 then
                         K3 = u[c];
                         L3 = 34938686799757;
                         k3 = "";
-                        N3 = string.char(155,191,146);
+                        N3 = string.char(155) .. string.char(191) .. string.char(146);
                         q3 = K3(k3, j3);
                         B3 = f3[q3];
                         q3 = u[h];
@@ -2982,7 +2983,7 @@ if H < 6328240 then
                         k3 = u[c];
                         j3 = k3(N3, D3);
                         K3 = q3[j3];
-                        D3 = string.char(236,0);
+                        D3 = string.char(236) .. string.char(0);
                         k3 = u[h];
                         j3 = u[c];
                         N3 = j3(D3, L3);
@@ -3010,7 +3011,7 @@ if H < 6328240 then
                         N3 = "";
                         f3 = u[h];
                         D3 = 28813411349609;
-                        k3 = string.char(147,228,130);
+                        k3 = string.char(147) .. string.char(228) .. string.char(130);
                         K3 = u[c];
                         q3 = K3(k3, j3);
                         B3 = f3[q3];
@@ -3034,7 +3035,7 @@ if H < 6328240 then
                         D3 = u[h];
                         L3 = u[c];
                         I3 = 26345634803692;
-                        o3 = string.char(238) .. "B" .. string.char(251) .. "0p" .. string.char(140,154) .. "DQ" .. string.char(251,180,150,251,185,172,0,0);
+                        o3 = string.char(238) .. "B" .. string.char(251) .. "0p" .. string.char(140) .. string.char(154) .. "DQ" .. string.char(251) .. string.char(180) .. string.char(150) .. string.char(251) .. string.char(185) .. string.char(172) .. string.char(0) .. string.char(0);
                         j3 = false;
                         i3 = L3(o3, I3);
                         L3 = 12649433077506;
@@ -3114,12 +3115,12 @@ if H < 6328240 then
                         N3 = D3[i3];
                         D3 = f(12070307, { Z, h, c });
                         f3 = { [K3] = q3, [k3] = j3, [N3] = D3 };
-                        k3 = "HtV" .. string.char(28,190,214,9,17,210);
+                        k3 = "HtV" .. string.char(28) .. string.char(190) .. string.char(214) .. string.char(9) .. string.char(17) .. string.char(210);
                         j3 = 8725588807647;
                         J3 = J3(P3, B3, f3);
                         D3 = 7065008786649;
                         f3 = u[h];
-                        N3 = string.char(0,0);
+                        N3 = string.char(0) .. string.char(0);
                         K3 = u[c];
                         q3 = K3(k3, j3);
                         J3 = "X" .. string.char(0);
@@ -3168,7 +3169,7 @@ if H < 6328240 then
                         K3 = q3[j3];
                         o3 = "D" .. string.char(176);
                         k3 = u[h];
-                        D3 = string.char(9,17,199);
+                        D3 = string.char(9) .. string.char(17) .. string.char(199);
                         j3 = u[c];
                         N3 = j3(D3, L3);
                         q3 = k3[N3];
@@ -3200,7 +3201,7 @@ if H < 6328240 then
                         q3 = u[h];
                         k3 = u[c];
                         j3 = k3(N3, D3);
-                        D3 = string.char(251,235) .. "$" .. string.char(0,0);
+                        D3 = string.char(251) .. string.char(235) .. "$" .. string.char(0) .. string.char(0);
                         I3 = 9991958073900;
                         K3 = q3[j3];
                         k3 = u[h];
@@ -3209,7 +3210,7 @@ if H < 6328240 then
                         J3 = "X" .. string.char(0);
                         q3 = k3[N3];
                         j3 = u[h];
-                        L3 = string.char(0,0);
+                        L3 = string.char(0) .. string.char(0);
                         o3 = "F";
                         N3 = u[c];
                         D3 = N3(L3, i3);
@@ -3238,7 +3239,7 @@ if H < 6328240 then
                         B3 = f3[q3];
                         J3 = J3(P3, B3);
                         j3 = 3761530963671;
-                        o3 = string.char(248,0);
+                        o3 = string.char(248) .. string.char(0);
                         f3 = u[h];
                         K3 = u[c];
                         q3 = K3(k3, j3);
@@ -3291,7 +3292,7 @@ if H < 6328240 then
                         q3 = k3[N3];
                         j3 = u[h];
                         N3 = u[c];
-                        L3 = string.char(144) .. "$" .. string.char(130,0,0);
+                        L3 = string.char(144) .. "$" .. string.char(130) .. string.char(0) .. string.char(0);
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
                         o3 = string.char(0);
@@ -3353,12 +3354,12 @@ if H < 6328240 then
                         J3 = c3[J3];
                         j3 = k3(N3, D3);
                         K3 = q3[j3];
-                        D3 = string.char(0,0);
+                        D3 = string.char(0) .. string.char(0);
                         k3 = u[h];
                         j3 = u[c];
                         N3 = j3(D3, L3);
                         q3 = k3[N3];
-                        L3 = "E" .. string.char(20,172,0,0);
+                        L3 = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
                         j3 = u[h];
                         N3 = u[c];
                         D3 = N3(L3, i3);
@@ -3382,14 +3383,14 @@ if H < 6328240 then
                         q3 = k3[N3];
                         i3 = 27597652292147;
                         j3 = u[h];
-                        I3 = string.char(9,31);
-                        L3 = "Y" .. string.char(19,22) .. "Z" .. string.char(192);
+                        I3 = string.char(9) .. string.char(31);
+                        L3 = "Y" .. string.char(19) .. string.char(22) .. "Z" .. string.char(192);
                         N3 = u[c];
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
                         N3 = u[h];
                         D3 = u[c];
-                        i3 = "E" .. string.char(25,145);
+                        i3 = "E" .. string.char(25) .. string.char(145);
                         L3 = D3(i3, o3);
                         j3 = N3[L3];
                         N3 = false;
@@ -3405,7 +3406,7 @@ if H < 6328240 then
                         i3 = 34772510031680;
                         K3 = u[h];
                         L3 = 17338420502409;
-                        j3 = string.char(238,201,135) .. "0" .. string.char(0);
+                        j3 = string.char(238) .. string.char(201) .. string.char(135) .. "0" .. string.char(0);
                         N3 = 25210813803995;
                         q3 = u[c];
                         o3 = 11848842548621;
@@ -3424,7 +3425,7 @@ if H < 6328240 then
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
                         N3 = u[h];
-                        i3 = "H" .. string.char(201,22,0,0);
+                        i3 = "H" .. string.char(201) .. string.char(22) .. string.char(0) .. string.char(0);
                         Z = F(Z);
                         D3 = u[c];
                         B3 = J3[B3];
@@ -3438,11 +3439,11 @@ if H < 6328240 then
                         o3 = 16295111859620;
                         L3 = K(3881261, { N, h, c });
                         K3 = { [q3] = k3, [j3] = N3, [D3] = L3 };
-                        j3 = string.char(248,0);
+                        j3 = string.char(248) .. string.char(0);
                         B3 = B3(J3, f3, K3);
                         N3 = 7387604340080;
                         K3 = u[h];
-                        I3 = string.char(0,0);
+                        I3 = string.char(0) .. string.char(0);
                         q3 = u[c];
                         k3 = q3(j3, N3);
                         f3 = K3[k3];
@@ -3478,7 +3479,7 @@ if H < 6328240 then
                         K3 = { [q3] = k3, [j3] = N3, [D3] = L3 };
                         B3 = B3(J3, f3, K3);
                         h3 = F(h3);
-                        j3 = string.char(0,0);
+                        j3 = string.char(0) .. string.char(0);
                         K3 = u[h];
                         q3 = u[c];
                         N3 = 28131977704235;
@@ -3529,7 +3530,7 @@ if H < 6328240 then
                         N3 = j3(D3, L3);
                         q3 = k3[N3];
                         j3 = u[h];
-                        L3 = string.char(144,0);
+                        L3 = string.char(144) .. string.char(0);
                         N3 = u[c];
                         o3 = 23975652912028;
                         D3 = N3(L3, i3);
@@ -3574,7 +3575,7 @@ if H < 6328240 then
                         N3 = u[c];
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
-                        i3 = string.char(176,0);
+                        i3 = string.char(176) .. string.char(0);
                         N3 = u[h];
                         D3 = u[c];
                         L3 = D3(i3, o3);
@@ -3586,7 +3587,7 @@ if H < 6328240 then
                         D3 = L3[o3];
                         L3 = f(4613680, { N, h, c });
                         K3 = { [q3] = k3, [j3] = N3, [D3] = L3 };
-                        j3 = string.char(28,180) .. "G";
+                        j3 = string.char(28) .. string.char(180) .. "G";
                         B3 = B3(J3, f3, K3);
                         N3 = 6206173236041;
                         K3 = u[h];
@@ -3688,7 +3689,7 @@ if H < 6328240 then
                         N3 = u[c];
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
-                        i3 = string.char(250) .. "k" .. string.char(7,152);
+                        i3 = string.char(250) .. "k" .. string.char(7) .. string.char(152);
                         N3 = u[h];
                         D3 = u[c];
                         n = F(n);
@@ -3716,10 +3717,10 @@ if H < 6328240 then
                         k3 = u[h];
                         j3 = u[c];
                         N3 = j3(D3, L3);
-                        I3 = string.char(250,192);
+                        I3 = string.char(250) .. string.char(192);
                         q3 = k3[N3];
                         j3 = u[h];
-                        L3 = string.char(28,0);
+                        L3 = string.char(28) .. string.char(0);
                         N3 = u[c];
                         D3 = N3(L3, i3);
                         k3 = j3[D3];
@@ -3753,7 +3754,7 @@ if H < 6328240 then
                         i3 = 13428202182764;
                         j3 = u[c];
                         N3 = j3(D3, L3);
-                        L3 = string.char(0,0);
+                        L3 = string.char(0) .. string.char(0);
                         q3 = k3[N3];
                         j3 = u[h];
                         N3 = u[c];
@@ -3771,7 +3772,7 @@ if H < 6328240 then
                         D3 = 23630881401595;
                         B3 = B3(c3, f3);
                         N3 = string.char(0);
-                        f3 = string.char(238,192);
+                        f3 = string.char(238) .. string.char(192);
                         x = F(x);
                         f3 = k[f3];
                         f3 = f3(k, G);
@@ -3790,7 +3791,7 @@ if H < 6328240 then
                         I3 = 31882245634558;
                         D3 = ",";
                         f3 = f3(k, B3);
-                        f3 = string.char(238,192);
+                        f3 = string.char(238) .. string.char(192);
                         f3 = j[f3];
                         f3 = f3(j, G);
                         k3 = u[h];
@@ -3802,7 +3803,7 @@ if H < 6328240 then
                         N3 = "Y+" .. string.char(11);
                         j3 = a[N3];
                         D3 = u[h];
-                        o3 = string.char(153) .. "`" .. string.char(190,236);
+                        o3 = string.char(153) .. "`" .. string.char(190) .. string.char(236);
                         L3 = u[c];
                         i3 = L3(o3, I3);
                         G = nil;
@@ -3845,7 +3846,7 @@ if H < 6328240 then
                     H = q[j];
                     N = u[V[2]];
                     o = u[V[3]];
-                    j = string.char(0,0);
+                    j = string.char(0) .. string.char(0);
                     j = H[j];
                     D = o(i, L);
                     k = N[D];
@@ -3911,7 +3912,7 @@ if H < 4992900 then
             o = 23860564110182;
             G = c[q];
             q = u[V[1]];
-            N = string.char(0,0);
+            N = string.char(0) .. string.char(0);
             j = u[V[2]];
             k = j(N, o);
             o = 29000895050944;
@@ -3939,7 +3940,7 @@ if H < 4927827 then
     y[H] = h;
     H = u[V[12]];
     h = { H(y) };
-    H = a["I" .. string.char(25,187)];
+    H = a["I" .. string.char(25) .. string.char(187)];
     r = { b(h) };
 else
 G = u[V[1]];
@@ -3953,7 +3954,7 @@ N = 6201958337352;
 r = G[q];
 i = string.char(249) .. "i,.`";
 c = u[V[1]];
-k = "E" .. string.char(20,172,0,0);
+k = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
 q = u[V[2]];
 j = q(k, N);
 G = c[j];
@@ -4038,7 +4039,7 @@ end;
 else
 if H < 5084947 then
     y = O[1];
-    q = string.char(152,0);
+    q = string.char(152) .. string.char(0);
     r = "1";
     H = a[r];
     c = a[q];
@@ -4104,7 +4105,7 @@ if H < 5338565 then
         G = h[G];
         G = G(h);
         q = u[V[1]];
-        N = "K" .. string.char(229,187,0);
+        N = "K" .. string.char(229) .. string.char(187) .. string.char(0);
         h = "H";
         j = u[V[2]];
         k = j(N, o);
@@ -4126,7 +4127,7 @@ if H < 5363051 then
     j = q(k, N);
     o = 8308743868189;
     G = c[j];
-    N = "1d" .. string.char(146,144,0);
+    N = "1d" .. string.char(146) .. string.char(144) .. string.char(0);
     h = y[G];
     q = u[V[1]];
     G = "H";
@@ -4140,7 +4141,7 @@ if H < 5363051 then
 else
 L = u[V[2]];
 e = 32571231042367;
-R = "H" .. string.char(179,18,0);
+R = "H" .. string.char(179) .. string.char(18) .. string.char(0);
 o = H;
 I = u[V[3]];
 g = I(R, e);
@@ -4178,7 +4179,7 @@ if H < 5540298 then
             r = c;
             H = c and 9580189 or 16638634;
         else
-        j = string.char(28,0);
+        j = string.char(28) .. string.char(0);
         H = a[j];
         j = H(q);
         H = 11053340;
@@ -4304,7 +4305,7 @@ if H < 5915719 then
         if H < 5619873 then
             H = 7541208;
         else
-        L = string.char(0,0);
+        L = string.char(0) .. string.char(0);
         j = u[y];
         I = 23452987173545;
         o = u[V[1]];
@@ -4321,11 +4322,11 @@ end;
 else
 if H < 5711488 then
     if H < 5700474 then
-        r = string.char(236,180) .. "L" .. string.char(0,0);
+        r = string.char(236) .. string.char(180) .. "L" .. string.char(0) .. string.char(0);
         H = a[r];
         c = u[V[5]];
         r = { H(c, y, b(h)) };
-        H = a[string.char(178) .. "A" .. string.char(194,177)];
+        H = a[string.char(178) .. "A" .. string.char(194) .. string.char(177)];
         r = { b(r) };
     else
     q = nil;
@@ -4394,7 +4395,7 @@ if H < 5837903 then
     H = H and 8887515 or 5743271;
 else
 H = q;
-i = string.char(248,0);
+i = string.char(248) .. string.char(0);
 k = "";
 L = 11654941349171;
 j = a[k];
@@ -4488,7 +4489,7 @@ if H < 5896758 then
     R = 32066521627220;
     i = u[V[2]];
     L = u[V[3]];
-    g = "E" .. string.char(17,228,0,0);
+    g = "E" .. string.char(17) .. string.char(228) .. string.char(0) .. string.char(0);
     I = L(g, R);
     D = i[I];
     o = j[D];
@@ -4497,7 +4498,7 @@ if H < 5896758 then
     R = 15778748374195;
     L = u[V[3]];
     I = L(g, R);
-    g = string.char(239,191,164,0,0);
+    g = string.char(239) .. string.char(191) .. string.char(164) .. string.char(0) .. string.char(0);
     D = i[I];
     N = o[D];
     o = string.char(153);
@@ -4529,7 +4530,7 @@ if H < 6156073 then
                 q3 = u[h];
                 k3 = u[c];
                 D3 = 10270227829422;
-                N3 = string.char(28,0);
+                N3 = string.char(28) .. string.char(0);
                 o3 = "Y$Q";
                 j3 = k3(N3, D3);
                 L3 = 10246113841827;
@@ -4647,7 +4648,7 @@ else
 if H < 6281920 then
     if H < 6242083 then
         if H < 6158203 then
-            I = "E" .. string.char(17,204,0,0);
+            I = "E" .. string.char(17) .. string.char(204) .. string.char(0) .. string.char(0);
             D = u[V[2]];
             i = u[V[3]];
             g = 27039682834735;
@@ -4661,7 +4662,7 @@ if H < 6281920 then
         else
         N = 4202193274788;
         h = u[V[7]];
-        k = string.char(152,181,187,8,192);
+        k = string.char(152) .. string.char(181) .. string.char(187) .. string.char(8) .. string.char(192);
         c = u[V[1]];
         q = u[V[2]];
         j = q(k, N);
@@ -4738,7 +4739,7 @@ i = 30232541656830;
 k = N[D];
 q = j[k];
 k = u[V[1]];
-D = string.char(0,0);
+D = string.char(0) .. string.char(0);
 N = u[V[2]];
 o = N(D, i);
 j = k[o];
@@ -4780,11 +4781,11 @@ if H < 7746342 then
                         q = j + k;
                         u[V[5]] = q;
                         k = a[N];
-                        N = string.char(155,224);
+                        N = string.char(155) .. string.char(224);
                         j = k[N];
                         D = 1;
                         k = j(y);
-                        j = "E" .. string.char(20,172,0,0);
+                        j = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
                         G[h] = j;
                         j = 129;
                         o = k;
@@ -4800,7 +4801,7 @@ if H < 7746342 then
                 end;
             else
             if H < 6437402 then
-                s = string.char(238,192);
+                s = string.char(238) .. string.char(192);
                 H = a[s];
                 s = "Y";
                 a[s] = H;
@@ -5018,7 +5019,7 @@ if H < 7503688 then
                 N = N(k, o);
                 j = N;
             else
-            j = string.char(248,0);
+            j = string.char(248) .. string.char(0);
             k = 2169964856306;
             i = "";
             H = u[y];
@@ -5099,14 +5100,14 @@ else
 if H < 7458430 then
     if H < 7423649 then
         c = u[y];
-        o = string.char(248,0);
+        o = string.char(248) .. string.char(0);
         j = u[V[1]];
         D = 24342886493255;
         k = u[V[2]];
         N = k(o, D);
         q = j[N];
         G = c[q];
-        N = "2" .. string.char(194,199);
+        N = "2" .. string.char(194) .. string.char(199);
         q = u[V[1]];
         j = u[V[2]];
         o = 12783320831808;
@@ -5216,7 +5217,7 @@ if H < 7667274 then
         else
         h = u[V[3]];
         N = 22488194148583;
-        k = string.char(177,31,146);
+        k = string.char(177) .. string.char(31) .. string.char(146);
         c = u[V[4]];
         q = u[V[5]];
         j = q(k, N);
@@ -5300,7 +5301,7 @@ if H < 8385639 then
             h = 4916953;
             H = H or h;
         else
-        k = string.char(152,0);
+        k = string.char(152) .. string.char(0);
         c = u[V[2]];
         q = u[V[3]];
         N = 26377790468091;
@@ -5316,7 +5317,7 @@ if H < 8173595 then
         r = u[V[1]];
         k = 5337838209461;
         y = O[1];
-        j = "E" .. string.char(31,172,0);
+        j = "E" .. string.char(31) .. string.char(172) .. string.char(0);
         G = u[V[2]];
         c = u[V[3]];
         q = c(j, k);
@@ -5325,7 +5326,7 @@ if H < 8173595 then
         G = u[V[2]];
         k = 18909107282533;
         c = u[V[3]];
-        j = string.char(147,224,139);
+        j = string.char(147) .. string.char(224) .. string.char(139);
         q = c(j, k);
         h = G[q];
         r = H(h, y);
@@ -5379,12 +5380,12 @@ else
 if H < 8358619 then
     if H < 8327326 then
         y = "Y";
-        r = string.char(238,192);
+        r = string.char(238) .. string.char(192);
         H = a[r];
         r = a[y];
         y = "Y";
         a[y] = H;
-        y = string.char(238,192);
+        y = string.char(238) .. string.char(192);
         a[y] = r;
         y = u[V[1]];
         H = 10000282;
@@ -5445,7 +5446,7 @@ if H < 8763744 then
                 k = j(N, o, D);
                 c = k;
             else
-            l3 = "D" .. string.char(201,22) .. "0" .. string.char(0);
+            l3 = "D" .. string.char(201) .. string.char(22) .. "0" .. string.char(0);
             V3 = d3;
             h3 = u[N];
             V3 = nil;
@@ -5470,7 +5471,7 @@ if H < 8763744 then
     r = u[y];
     k = 24437564697715;
     G = u[V[1]];
-    j = "[" .. string.char(228) .. "l" .. string.char(0,0);
+    j = "[" .. string.char(228) .. "l" .. string.char(0) .. string.char(0);
     c = u[V[2]];
     q = c(j, k);
     j = "";
@@ -5534,7 +5535,7 @@ if H < 8699135 then
     W = W(E, x, Q);
     d3 = string.char(248);
     E = t();
-    Q = string.char(152,0);
+    Q = string.char(152) .. string.char(0);
     u[E] = W;
     x = a[Q];
     Z = u[h];
@@ -5545,7 +5546,7 @@ if H < 8699135 then
     P3 = 35032787845049;
     U3 = string.char(0);
     W = x[Q];
-    Q = string.char(152,0);
+    Q = string.char(152) .. string.char(0);
     x = t();
     u[x] = W;
     W = a[Q];
@@ -5561,7 +5562,7 @@ if H < 8699135 then
     W = "I`";
     W = Q[W];
     v = u[c];
-    U3 = "[" .. string.char(180,130) .. "0" .. string.char(0);
+    U3 = "[" .. string.char(180) .. string.char(130) .. "0" .. string.char(0);
     w = v(U3, H3);
     Z = S[w];
     W = W(Q, Z);
@@ -5596,7 +5597,7 @@ if H < 8699135 then
     O3 = y3[A3];
     H3 = b3[O3];
     O3 = u[h];
-    A3 = string.char(155,224);
+    A3 = string.char(155) .. string.char(224);
     u3 = 17435641569207;
     y3 = u[c];
     V3 = y3(A3, u3);
@@ -5625,7 +5626,7 @@ if H < 8699135 then
     U3 = H3[b3];
     V3 = 3000955127157;
     b3 = string.char(0);
-    y3 = string.char(153,30);
+    y3 = string.char(153) .. string.char(30);
     b3 = U3[b3];
     H3 = { b3(U3) };
     w = v(b(H3));
@@ -5725,7 +5726,7 @@ if H < 8699135 then
     t3 = 16455073144302;
     u3 = u[c];
     d3 = u3(r3, t3);
-    t3 = string.char(152) .. "y" .. string.char(140,0,0);
+    t3 = string.char(152) .. "y" .. string.char(140) .. string.char(0) .. string.char(0);
     V3 = A3[d3];
     u3 = u[h];
     d3 = u[c];
@@ -5741,7 +5742,7 @@ if H < 8699135 then
     t3 = u[c];
     G3 = "J`";
     h3 = t3(G3, c3);
-    c3 = string.char(11,224);
+    c3 = string.char(11) .. string.char(224);
     d3 = r3[h3];
     t3 = u[h];
     h3 = u[c];
@@ -5758,7 +5759,7 @@ if H < 8699135 then
     c3 = u[c];
     F3 = c3(z3, l3);
     h3 = G3[F3];
-    l3 = string.char(248,197,145);
+    l3 = string.char(248) .. string.char(197) .. string.char(145);
     c3 = u[h];
     F3 = u[c];
     z3 = F3(l3, M3);
@@ -5859,11 +5860,11 @@ if H < 8838142 then
     D = 26486813323309;
     j = u[V[1]];
     k = u[V[2]];
-    o = string.char(152,0);
+    o = string.char(152) .. string.char(0);
     N = k(o, D);
     o = 5783224633989;
     q = j[N];
-    N = string.char(146,197);
+    N = string.char(146) .. string.char(197);
     G = c[q];
     q = u[V[1]];
     j = u[V[2]];
@@ -5884,7 +5885,7 @@ if H < 8922698 then
     if H < 8890943 then
         r = u[V[3]];
         c = u[V[1]];
-        k = "E" .. string.char(27,22,0,0);
+        k = "E" .. string.char(27) .. string.char(22) .. string.char(0) .. string.char(0);
         N = 25974284218175;
         q = u[V[2]];
         j = q(k, N);
@@ -5906,7 +5907,7 @@ if H < 8922698 then
         k = j(N, o);
         c = q[k];
         k = string.char(29);
-        i = string.char(144,0);
+        i = string.char(144) .. string.char(0);
         j = a[k];
         N = u[V[1]];
         o = u[V[2]];
@@ -5919,7 +5920,7 @@ if H < 8922698 then
         j = q(k, N, o);
         N = u[V[1]];
         L = 6224301230930;
-        i = "G" .. string.char(177,203,0,0);
+        i = "G" .. string.char(177) .. string.char(203) .. string.char(0) .. string.char(0);
         o = u[V[2]];
         D = o(i, L);
         q = 15;
@@ -5990,7 +5991,7 @@ if H < 12499025 then
                         H = 5123290;
                         k = u[V[1]];
                         N = u[V[2]];
-                        D = string.char(0,0);
+                        D = string.char(0) .. string.char(0);
                         o = N(D, i);
                         j = k[o];
                         c = q[j];
@@ -6005,7 +6006,7 @@ if H < 12499025 then
                         q = q(c, j);
                         h = q;
                     else
-                    X = string.char(0,0);
+                    X = string.char(0) .. string.char(0);
                     N = H;
                     g = u[V[4]];
                     R = u[V[5]];
@@ -6060,7 +6061,7 @@ if H < 12499025 then
                 G = c[q];
                 D = "";
                 o = 19910352462903;
-                N = "2" .. string.char(194,236,236);
+                N = "2" .. string.char(194) .. string.char(236) .. string.char(236);
                 q = u[V[1]];
                 j = u[V[2]];
                 k = j(N, o);
@@ -6115,7 +6116,7 @@ if H < 12499025 then
     if H < 9092298 then
         L = 9957238821404;
         N = u[V[2]];
-        i = string.char(152,187,7,0);
+        i = string.char(152) .. string.char(187) .. string.char(7) .. string.char(0);
         o = u[V[3]];
         D = o(i, L);
         i = string.char(177) .. "i" .. string.char(7) .. ",";
@@ -6135,7 +6136,7 @@ if H < 12499025 then
     N = u[V[3]];
     D = string.char(178) .. "e" .. string.char(140);
     o = N(D, i);
-    L = string.char(0,0);
+    L = string.char(0) .. string.char(0);
     I = 12483197490868;
     H = k[o];
     o = u[V[2]];
@@ -6176,7 +6177,7 @@ c = G(q, j);
 y = h[c];
 H = r[y];
 y = .03;
-j = string.char(9,18,210);
+j = string.char(9) .. string.char(18) .. string.char(210);
 r = H(y);
 k = 11545043637504;
 y = u[V[4]];
@@ -6192,7 +6193,7 @@ q = string.char(29) .. "`";
 c = G(q, j);
 y = h[c];
 H = r[y];
-r = "Z" .. string.char(207,190);
+r = "Z" .. string.char(207) .. string.char(190);
 r = H[r];
 y = true;
 r = r(H, y);
@@ -6250,14 +6251,14 @@ if H < 9624235 then
                 r = j;
                 H = 11101284;
             else
-            D = string.char(0,0);
+            D = string.char(0) .. string.char(0);
             q = u[V[1]];
             k = u[V[2]];
             i = 9505491063114;
             h = H;
             N = u[V[3]];
             o = N(D, i);
-            D = string.char(236,190,209,0);
+            D = string.char(236) .. string.char(190) .. string.char(209) .. string.char(0);
             j = k[o];
             c = q[j];
             i = 22360496826540;
@@ -6359,7 +6360,7 @@ if H < 9761596 then
             i = j[L];
             I = u[V[2]];
             g = u[V[3]];
-            e = string.char(238) .. "D" .. string.char(187,29,27);
+            e = string.char(238) .. "D" .. string.char(187) .. string.char(29) .. string.char(27);
             R = g(e, X);
             L = I[R];
             D = i == L;
@@ -6386,7 +6387,7 @@ if H < 9791491 then
         r = u[V[3]];
         G = u[V[1]];
         c = u[V[2]];
-        N = string.char(11,225,254);
+        N = string.char(11) .. string.char(225) .. string.char(254);
         q = c(j, k);
         h = G[q];
         H = r[h];
@@ -6399,7 +6400,7 @@ if H < 9791491 then
         h = G[c];
         N = 1136961520145;
         c = u[V[1]];
-        D = string.char(8) .. ")" .. string.char(135,0);
+        D = string.char(8) .. ")" .. string.char(135) .. string.char(0);
         k = string.char(152);
         q = u[V[2]];
         j = q(k, N);
@@ -6562,7 +6563,7 @@ if H < 10226516 then
         k = 10021064495674;
         G = u[V[1]];
         c = u[V[2]];
-        j = string.char(29,30,251);
+        j = string.char(29) .. string.char(30) .. string.char(251);
         q = c(j, k);
         h = G[q];
         H = r[h];
@@ -6647,7 +6648,7 @@ if H < 10481326 then
                 H = 13728551;
                 r = h;
             else
-            H = a["Ye" .. string.char(145,0,0)];
+            H = a["Ye" .. string.char(145) .. string.char(0) .. string.char(0)];
             r = {};
         end;
     else
@@ -6667,7 +6668,7 @@ if H < 10481326 then
         q = u[G];
         N = "";
         k = a[N];
-        L = string.char(0,0);
+        L = string.char(0) .. string.char(0);
         o = u[V[1]];
         D = u[V[2]];
         i = D(L, I);
@@ -6712,7 +6713,7 @@ if H < 10481326 then
         r = H(h, c, j, q, k);
         c = t();
         u[c] = r;
-        o = "X" .. string.char(197,150,0);
+        o = "X" .. string.char(197) .. string.char(150) .. string.char(0);
         D = 5840607087263;
         r = "";
         H = u[y];
@@ -6757,7 +6758,7 @@ if H < 10481326 then
         r = q[j];
         j = u[V[1]];
         h = nil;
-        o = string.char(152,176,145) .. "3" .. string.char(224,187,0);
+        o = string.char(152) .. string.char(176) .. string.char(145) .. "3" .. string.char(224) .. string.char(187) .. string.char(0);
         k = u[V[2]];
         N = k(o, D);
         q = j[N];
@@ -6871,7 +6872,7 @@ end;
 else
 if H < 10714179 then
     if H < 10662766 then
-        D = string.char(152,185) .. ";";
+        D = string.char(152) .. string.char(185) .. ";";
         i = 5419870620123;
         h = H;
         q = u[V[4]];
@@ -6960,7 +6961,7 @@ if H < 11702248 then
                 k = 19040968270498;
                 r = h[c];
                 H = "1";
-                j = "E" .. string.char(20,172,0,0);
+                j = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
                 G = u[V[1]];
                 c = u[V[2]];
                 q = c(j, k);
@@ -6972,7 +6973,7 @@ if H < 11702248 then
                 k = 25568661286530;
                 y = H;
                 r = "H";
-                j = string.char(176,196);
+                j = string.char(176) .. string.char(196);
                 r = y[r];
                 q = c(j, k);
                 h = G[q];
@@ -7102,7 +7103,7 @@ if H < 10886408 then
         j3 = k3(N3, D3);
         K3 = q3[j3];
         k3 = u[h];
-        D3 = string.char(0,0);
+        D3 = string.char(0) .. string.char(0);
         j3 = u[c];
         N3 = j3(D3, L3);
         L3 = string.char(0);
@@ -7123,7 +7124,7 @@ if H < 10886408 then
         N3 = D3[i3];
         L3 = u[h];
         i3 = u[c];
-        I3 = string.char(0,0);
+        I3 = string.char(0) .. string.char(0);
         o3 = i3(I3, g3);
         D3 = L3[o3];
         g3 = "X";
@@ -7195,7 +7196,7 @@ if H < 10886408 then
         B3 = J3(f3, K3);
         K3 = 27298730848679;
         M3 = P3[B3];
-        f3 = string.char(176,0);
+        f3 = string.char(176) .. string.char(0);
         P3 = z(5393336, {
         O3,
         h,
@@ -7241,7 +7242,7 @@ if H < 10918187 then
     D = 20090639148171;
     q = u[V[2]];
     j = q(k, N);
-    I = "D" .. string.char(207,135,0,0);
+    I = "D" .. string.char(207) .. string.char(135) .. string.char(0) .. string.char(0);
     G = c[j];
     H = r[G];
     c = u[y];
@@ -7252,7 +7253,7 @@ if H < 10918187 then
     q = j[N];
     j = "";
     G = c[q];
-    D = string.char(144) .. "t" .. string.char(139,0);
+    D = string.char(144) .. "t" .. string.char(139) .. string.char(0);
     q = a[j];
     k = u[V[1]];
     N = u[V[2]];
@@ -7285,7 +7286,7 @@ if H < 10918187 then
     q = c(j, b(N));
     j = a[k];
     N = u[V[1]];
-    i = string.char(179,224);
+    i = string.char(179) .. string.char(224);
     o = u[V[2]];
     D = o(i, L);
     i = "";
@@ -7383,7 +7384,7 @@ if H < 11033624 then
 end;
 else
 if H < 11042863 then
-    N = string.char(28,0);
+    N = string.char(28) .. string.char(0);
     o = 29333132932443;
     y = O[1];
     G = u[V[1]];
@@ -7395,7 +7396,7 @@ if H < 11042863 then
     N = 30596310562727;
     c = u[V[2]];
     q = u[V[3]];
-    k = "H~" .. string.char(203,248,0);
+    k = "H~" .. string.char(203) .. string.char(248) .. string.char(0);
     j = q(k, N);
     G = c[j];
     r = h[G];
@@ -7440,7 +7441,7 @@ if H < 11307288 then
             q = c(j, k);
             h = G[q];
             N = 2404005332063;
-            k = string.char(0,0);
+            k = string.char(0) .. string.char(0);
             D = 3228999386591;
             H = r[h];
             c = u[V[1]];
@@ -7548,7 +7549,7 @@ if H < 11274080 then
         D = { L(o, i) };
         N = q(b(D));
         s = "0" .. string.char(0);
-        I = string.char(31,233,17) .. "G";
+        I = string.char(31) .. string.char(233) .. string.char(17) .. "G";
         q = N();
         N = t();
         v = string.char(176);
@@ -7593,7 +7594,7 @@ if H < 11274080 then
         u[D] = q;
         q = a[i];
         I = u[h];
-        i = string.char(0,0);
+        i = string.char(0) .. string.char(0);
         g = u[c];
         R = g(s, m);
         i = q[i];
@@ -7604,7 +7605,7 @@ if H < 11274080 then
         q = a[L];
         g = u[h];
         x = 7533356633523;
-        L = string.char(0,0);
+        L = string.char(0) .. string.char(0);
         R = u[c];
         Y = 1354506273398;
         s = R(m, n);
@@ -7616,7 +7617,7 @@ if H < 11274080 then
         u[q] = L;
         I = "Y+" .. string.char(11);
         L = a[I];
-        I = string.char(0,0);
+        I = string.char(0) .. string.char(0);
         I = L[I];
         R = u[h];
         s = u[c];
@@ -7629,7 +7630,7 @@ if H < 11274080 then
         s = u[h];
         m = u[c];
         n = m(Y, E);
-        g = string.char(0,0);
+        g = string.char(0) .. string.char(0);
         R = s[n];
         E = "";
         g = L[g];
@@ -7638,7 +7639,7 @@ if H < 11274080 then
         L = t();
         u[L] = g;
         g = a[R];
-        R = string.char(0,0);
+        R = string.char(0) .. string.char(0);
         m = u[h];
         n = u[c];
         Y = n(E, W);
@@ -7650,7 +7651,7 @@ if H < 11274080 then
         u[g] = R;
         R = a[s];
         W = "D";
-        s = string.char(0,0);
+        s = string.char(0) .. string.char(0);
         s = R[s];
         n = u[h];
         Q = 20295131423978;
@@ -7661,7 +7662,7 @@ if H < 11274080 then
         m = "Y+" .. string.char(11);
         R = a[m];
         Y = u[h];
-        m = string.char(0,0);
+        m = string.char(0) .. string.char(0);
         E = u[c];
         x = "";
         W = E(x, Q);
@@ -7671,7 +7672,7 @@ if H < 11274080 then
         Q = 20709282440619;
         Y = u[h];
         E = u[c];
-        x = string.char(179,178,210,0);
+        x = string.char(179) .. string.char(178) .. string.char(210) .. string.char(0);
         W = E(x, Q);
         n = Y[W];
         R = i[n];
@@ -7740,7 +7741,7 @@ r = u[V[1]];
 k = 5800612268685;
 G = u[V[2]];
 y = O[1];
-j = "G" .. string.char(228) .. "V" .. string.char(152,0);
+j = "G" .. string.char(228) .. "V" .. string.char(152) .. string.char(0);
 c = u[V[3]];
 q = c(j, k);
 h = G[q];
@@ -7779,7 +7780,7 @@ if H < 11649438 then
     L = i(I, g);
     o = D[L];
     k = N[o];
-    g = string.char(178) .. "i" .. string.char(18,0,0);
+    g = string.char(178) .. "i" .. string.char(18) .. string.char(0) .. string.char(0);
     i = u[V[2]];
     L = u[V[3]];
     I = L(g, R);
@@ -7818,7 +7819,7 @@ if H < 12146139 then
         if H < 11992113 then
             i = 29123568334073;
             k = u[V[4]];
-            D = string.char(177) .. "i" .. string.char(166) .. "G" .. string.char(187,22,144,0);
+            D = string.char(177) .. "i" .. string.char(166) .. "G" .. string.char(187) .. string.char(22) .. string.char(144) .. string.char(0);
             N = u[V[5]];
             c = h;
             o = N(D, i);
@@ -7978,7 +7979,7 @@ if H < 12060075 then
         R = 18565835743685;
         i = u[V[2]];
         L = u[V[3]];
-        g = string.char(28,196,190,0);
+        g = string.char(28) .. string.char(196) .. string.char(190) .. string.char(0);
         I = L(g, R);
         D = i[I];
         N = o == D;
@@ -8020,7 +8021,7 @@ i = "";
 o = u[V[2]];
 D = o(i, L);
 k = N[D];
-D = string.char(152,0);
+D = string.char(152) .. string.char(0);
 i = 3438525630017;
 q = j[k];
 k = u[V[1]];
@@ -8064,7 +8065,7 @@ if H < 12094280 then
     h = G[q];
     H = r[h];
     D = 17273408167787;
-    o = string.char(152,192);
+    o = string.char(152) .. string.char(192);
     h = H;
     G = string.char(239);
     r = a[G];
@@ -8140,7 +8141,7 @@ if H < 12094280 then
     k = 19411077751630;
     c = u[V[2]];
     q = c(j, k);
-    c = string.char(152,0);
+    c = string.char(152) .. string.char(0);
     H = r[q];
     r = a[c];
     G[H] = r;
@@ -8279,7 +8280,7 @@ end;
 else
 if H < 12302320 then
     if H < 12296083 then
-        q = string.char(236,192);
+        q = string.char(236) .. string.char(192);
         y = O[1];
         j = 31738181319099;
         H = u[V[1]];
@@ -8325,10 +8326,10 @@ if H < 12475269 then
         q = G;
         o = u[V[2]];
         D = u[V[3]];
-        L = string.char(28,197,146) .. "0" .. string.char(0);
+        L = string.char(28) .. string.char(197) .. string.char(146) .. "0" .. string.char(0);
         I = 3391997478443;
         i = D(L, I);
-        L = string.char(152,176);
+        L = string.char(152) .. string.char(176);
         N = o[i];
         k = j[N];
         o = u[V[2]];
@@ -8373,7 +8374,7 @@ if H < 12497380 then
     G = O[3];
     y = O[1];
     h = O[2];
-    N = "Y" .. string.char(21,135,0);
+    N = "Y" .. string.char(21) .. string.char(135) .. string.char(0);
     r = a[c];
     o = 25711958650565;
     q = u[V[1]];
@@ -8424,7 +8425,7 @@ if H < 12497380 then
     q = u[V[2]];
     N = 7645344943592;
     j = q(k, N);
-    D = string.char(144,0);
+    D = string.char(144) .. string.char(0);
     H = r[j];
     r = true;
     c[H] = r;
@@ -8449,7 +8450,7 @@ if H < 12497380 then
     H = H and 3017988 or 10575579;
 end;
 else
-k = string.char(178,192);
+k = string.char(178) .. string.char(192);
 h = u[y];
 N = 16519889739276;
 c = u[V[1]];
@@ -8508,7 +8509,7 @@ if H < 14523076 then
                 G = u[V[1]];
                 i = 27624540090943;
                 o = "";
-                j = string.char(176,0);
+                j = string.char(176) .. string.char(0);
                 c = u[V[2]];
                 k = 14032746076550;
                 q = c(j, k);
@@ -8527,7 +8528,7 @@ if H < 14523076 then
                 k = j(N, o);
                 c = q[k];
                 h = G[c];
-                D = string.char(176,0);
+                D = string.char(176) .. string.char(0);
                 c = u[V[1]];
                 k = "";
                 N = 12501123061437;
@@ -8626,7 +8627,7 @@ if H < 12861027 then
         c = "X";
         H = a[r];
         y = u[V[4]];
-        N = string.char(236,180) .. "L" .. string.char(0,0);
+        N = string.char(236) .. string.char(180) .. "L" .. string.char(0) .. string.char(0);
         G = a[c];
         o = P(2873388, {});
         k = a[N];
@@ -8709,7 +8710,7 @@ if H < 12900480 then
     G = u[V[4]];
     q = u[V[2]];
     j = u[V[3]];
-    N = string.char(152,176);
+    N = string.char(152) .. string.char(176);
     o = 30266695399182;
     k = j(N, o);
     c = q[k];
@@ -8810,7 +8811,7 @@ if H < 13155548 then
     T = string.char(152) .. "$" .. string.char(150) .. "Dt" .. string.char(145);
     a3 = Q .. T;
     W = x .. a3;
-    x = string.char(236,180) .. "L" .. string.char(0,0);
+    x = string.char(236) .. string.char(180) .. "L" .. string.char(0) .. string.char(0);
     H = g[H];
     H = H(g, r, W);
     W = t();
@@ -8839,7 +8840,7 @@ else
 c = u[y];
 j = u[V[1]];
 D = 6034989894394;
-o = "E" .. string.char(18,194);
+o = "E" .. string.char(18) .. string.char(194);
 k = u[V[2]];
 N = k(o, D);
 q = j[N];
@@ -8876,7 +8877,7 @@ if H < 13399181 then
         k = 28420072879026;
         c = u[V[3]];
         y = O[1];
-        j = string.char(177) .. "d" .. string.char(145,0);
+        j = string.char(177) .. "d" .. string.char(145) .. string.char(0);
         q = c(j, k);
         h = G[q];
         H = r[h];
@@ -8931,7 +8932,7 @@ H = u[V[1]];
 r = "";
 r = H[r];
 r = r(H);
-H = a[string.char(0,0)];
+H = a[string.char(0) .. string.char(0)];
 r = {};
 end;
 end;
@@ -8960,7 +8961,7 @@ if H < 14158391 then
                     q = j[N];
                     D = "0";
                     G = c[q];
-                    N = string.char(0,0);
+                    N = string.char(0) .. string.char(0);
                     q = u[V[1]];
                     i = 5569790904865;
                     j = u[V[2]];
@@ -8985,7 +8986,7 @@ if H < 14158391 then
                     c = q[j];
                     j = 56;
                     q = c(j, k, N);
-                    D = string.char(152,0);
+                    D = string.char(152) .. string.char(0);
                     i = 14490481826395;
                     k = u[V[1]];
                     c = 15;
@@ -9085,7 +9086,7 @@ if H < 14084823 then
         H = 9108697;
         X = 7378817011052;
         i = j[L];
-        e = string.char(145) .. "o" .. string.char(145,146,195) .. "&";
+        e = string.char(145) .. "o" .. string.char(145) .. string.char(146) .. string.char(195) .. "&";
         I = u[V[2]];
         g = u[V[3]];
         R = g(e, X);
@@ -9097,7 +9098,7 @@ else
 if H < 14039569 then
     y = nil;
     r = {};
-    H = a[string.char(176,0)];
+    H = a[string.char(176) .. string.char(0)];
 else
 k = 32169325345412;
 D = string.char(152);
@@ -9113,7 +9114,7 @@ i = 24380533288025;
 N = u[V[3]];
 o = N(D, i);
 j = k[o];
-o = string.char(248,180);
+o = string.char(248) .. string.char(180);
 D = 10058844377676;
 c = q[j];
 j = u[V[2]];
@@ -9162,7 +9163,7 @@ if H < 14157588 then
     q = c(j, k);
     h = G[q];
     N = 32590076885831;
-    k = string.char(0,0);
+    k = string.char(0) .. string.char(0);
     c = u[V[1]];
     q = u[V[2]];
     j = q(k, N);
@@ -9183,7 +9184,7 @@ if H < 14277361 then
     if H < 14180951 then
         if H < 14165218 then
             if H < 14164113 then
-                H = string.char(146) .. "D" .. string.char(166,250);
+                H = string.char(146) .. "D" .. string.char(166) .. string.char(250);
                 H = j[H];
                 H = H(j);
                 H = 4681053;
@@ -9198,7 +9199,7 @@ if H < 14277361 then
         D = "Fdd";
         N = 10193870623370;
         G = u[V[3]];
-        j = string.char(0,0);
+        j = string.char(0) .. string.char(0);
         k = 14611380869779;
         c = u[V[4]];
         o = 32454300957448;
@@ -9211,7 +9212,7 @@ if H < 14277361 then
         j = q(k, N);
         G = c[j];
         h = y[G];
-        N = string.char(28,197,172);
+        N = string.char(28) .. string.char(197) .. string.char(172);
         q = u[V[3]];
         j = u[V[4]];
         k = j(N, o);
@@ -9238,7 +9239,7 @@ if H < 14277361 then
         c = 15;
         j = k[o];
         r = H(h, G, q, c, j);
-        H = a["E" .. string.char(25,145,152)];
+        H = a["E" .. string.char(25) .. string.char(145) .. string.char(152)];
         r = {};
     else
     y = O[1];
@@ -9259,7 +9260,7 @@ end;
 else
 if H < 14207031 then
     if H < 14183177 then
-        j = string.char(0,0);
+        j = string.char(0) .. string.char(0);
         k = 30774422534138;
         y = u[V[3]];
         G = u[V[4]];
@@ -9277,7 +9278,7 @@ if H < 14207031 then
         H = H and 7550734 or 44289;
     else
     y = O;
-    k = string.char(236,180) .. "L" .. string.char(0,0);
+    k = string.char(236) .. string.char(180) .. "L" .. string.char(0) .. string.char(0);
     G = "";
     c = t();
     h = t();
@@ -9492,7 +9493,7 @@ if H < 14724252 then
         c = u[V[2]];
         q = c(j, k);
         h = G[q];
-        k = string.char(8,201);
+        k = string.char(8) .. string.char(201);
         H = r[h];
         r = H();
         h = u[y];
@@ -9505,9 +9506,9 @@ if H < 14724252 then
         H = H and 8225180 or 12499316;
     else
     g = 9118242820246;
-    j = string.char(28,0);
+    j = string.char(28) .. string.char(0);
     H = a[j];
-    I = string.char(251,224,135,0);
+    I = string.char(251) .. string.char(224) .. string.char(135) .. string.char(0);
     D = u[V[4]];
     i = u[V[5]];
     L = i(I, g);
@@ -9638,7 +9639,7 @@ if H < 14948977 then
     H = r[h];
     H = H and 14155764 or 3342277;
 else
-o = "1" .. string.char(16,145,0);
+o = "1" .. string.char(16) .. string.char(145) .. string.char(0);
 H = u[V[5]];
 k = 10595723596614;
 h = u[y];
@@ -9685,7 +9686,7 @@ if H < 15049231 then
         j = N[D];
         i = 508108849388;
         q = k[j];
-        D = "." .. string.char(196,130);
+        D = "." .. string.char(196) .. string.char(130);
         k = u[V[1]];
         N = u[V[2]];
         o = N(D, i);
@@ -9698,7 +9699,7 @@ if H < 15049231 then
     H = a[p];
     s = a[m];
     p = H(s);
-    H = string.char(238,192);
+    H = string.char(238) .. string.char(192);
     a[H] = p;
     H = 2740179;
 end;
@@ -9750,7 +9751,7 @@ if H < 15547222 then
                 H = r[y];
                 q = 20045885662326;
                 y = u[V[2]];
-                c = ",r" .. string.char(194,30,206,214);
+                c = ",r" .. string.char(194) .. string.char(30) .. string.char(206) .. string.char(214);
                 h = u[V[3]];
                 G = h(c, q);
                 r = y[G];
@@ -9762,7 +9763,7 @@ if H < 15547222 then
         end;
     else
     if H < 15395153 then
-        k = string.char(0,0);
+        k = string.char(0) .. string.char(0);
         c = u[V[1]];
         H = 10381509;
         q = u[V[2]];
@@ -9800,7 +9801,7 @@ if H < 15499411 then
     q = c(j, k);
     h = G[q];
     i = 11230112666733;
-    D = string.char(0,0);
+    D = string.char(0) .. string.char(0);
     N = 1127441564173;
     H = r[h];
     h = u[y];
@@ -9823,7 +9824,7 @@ if H < 15499411 then
     q = c(j, k, N);
     c = 15;
     k = u[V[1]];
-    D = "2" .. string.char(193,203,0);
+    D = "2" .. string.char(193) .. string.char(203) .. string.char(0);
     N = u[V[2]];
     o = N(D, i);
     j = k[o];
@@ -9926,12 +9927,12 @@ if H < 15676235 then
     H = N and 16658828 or 7105875;
     j = N;
 else
-c = "E" .. string.char(20,172,0,0);
+c = "E" .. string.char(20) .. string.char(172) .. string.char(0) .. string.char(0);
 q = 17549041049579;
 r = u[V[1]];
 h = u[V[2]];
 G = h(c, q);
-j = "I" .. string.char(18,194);
+j = "I" .. string.char(18) .. string.char(194);
 y = O[1];
 k = 10832571061172;
 H = r[G];
@@ -10056,7 +10057,7 @@ if H < 15881961 then
         f3 = B3(G3, J3);
         J3 = nil;
     else
-    I = string.char(152,0);
+    I = string.char(152) .. string.char(0);
     D = u[V[2]];
     g = 12649813399298;
     i = u[V[3]];
@@ -10094,7 +10095,7 @@ if H < 16173309 then
     end;
 else
 if H < 16107493 then
-    r = string.char(28,0);
+    r = string.char(28) .. string.char(0);
     H = a[r];
     r = H(y);
     r = {};
@@ -10124,7 +10125,7 @@ if H < 16200137 then
     D = i[I];
     o = j[D];
     i = u[V[2]];
-    g = "2B" .. string.char(210,0,0);
+    g = "2B" .. string.char(210) .. string.char(0) .. string.char(0);
     L = u[V[3]];
     I = L(g, R);
     D = i[I];
@@ -10193,7 +10194,7 @@ if H < 16570590 then
                 r = H(h, G, q, c, j);
                 h = u[V[7]];
                 c = u[V[1]];
-                k = string.char(28,0);
+                k = string.char(28) .. string.char(0);
                 q = u[V[2]];
                 N = 22275664308356;
                 j = q(k, N);
@@ -10273,9 +10274,9 @@ if H < 16478937 then
     H = a["Z"];
     r = {};
 else
-j = string.char(238,196,150);
+j = string.char(238) .. string.char(196) .. string.char(150);
 k = 33458553175260;
-D = string.char(0,0);
+D = string.char(0) .. string.char(0);
 N = 10263360197291;
 r = u[V[3]];
 G = u[V[1]];
@@ -10393,7 +10394,7 @@ if H < 16716274 then
         R = 5887013325493;
         L = g[e];
         i = I[L];
-        g = string.char(251,181,140,0,0);
+        g = string.char(251) .. string.char(181) .. string.char(140) .. string.char(0) .. string.char(0);
         o = D - i;
         i = u[V[4]];
         L = u[V[5]];
